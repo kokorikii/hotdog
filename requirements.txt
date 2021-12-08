@@ -1,0 +1,22 @@
+
+
+keras @ file:///home/conda/feedstock_root/build_artifacts/keras_1630699849487/work/keras-2.6.0-py2.py3-none-any.whl
+Keras-Preprocessing @ file:///home/conda/feedstock_root/build_artifacts/keras-preprocessing_1610713559828/work
+
+numpy==1.21.4
+
+
+
+plotly @ file:///home/conda/feedstock_root/build_artifacts/plotly_1630471917451/work
+
+streamlit @ file:///home/conda/feedstock_root/build_artifacts/streamlit_1620159617620/work
+tabulate==0.8.9
+tenacity @ file:///home/conda/feedstock_root/build_artifacts/tenacity_1626090218611/work
+tensorboard @ file:///home/conda/feedstock_root/build_artifacts/tensorboard_1629677129676/work/tensorboard-2.6.0-py3-none-any.whl
+tensorboard-data-server @ file:///Users/runner/miniforge3/conda-bld/tensorboard-data-server_1629677129432/work/tensorboard_data_server-0.6.0-py3-none-macosx_11_0_arm64.whl
+tensorboard-plugin-wit @ file:///home/conda/feedstock_root/build_artifacts/tensorboard-plugin-wit_1611075653546/work/tensorboard_plugin_wit-1.8.0-py3-none-any.whl
+tensorflow-datasets==4.4.0
+tensorflow-estimator==2.6.0
+tensorflow-macos==2.6.0
+tensorflow-metadata==1.4.0
+tensorflow-metal==0.2.0
