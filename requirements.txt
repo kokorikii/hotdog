@@ -1,6 +1,7 @@
-numpy==1.21.4
-plotly @ file:///home/conda/feedstock_root/build_artifacts/plotly_1630471917451/work
-streamlit @ file:///home/conda/feedstock_root/build_artifacts/streamlit_1620159617620/work
+Kerason
+numpy
+plotly
+streamlit
 tensorflow-estimator==2.6.0
 tensorflow-macos==2.6.0
 tensorflow-metadata==1.4.0
