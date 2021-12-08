@@ -1,7 +1,6 @@
-keras
-numpy
-plotly
-streamlit
+keras==2.6.0
+Keras-Preprocessing==1.1.2
+numpy==1.21.4
+plotly==5.3.1
+streamlit==0.81.1
 tensorflow-estimator==2.6.0
-tensorflow-metadata==1.4.0
-tensorflow-metal==0.2.0
