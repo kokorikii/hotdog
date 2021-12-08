@@ -3,6 +3,5 @@ numpy
 plotly
 streamlit
 tensorflow-estimator==2.6.0
-tensorflow-macos==2.6.0
 tensorflow-metadata==1.4.0
 tensorflow-metal==0.2.0
