@@ -3,4 +3,4 @@ Keras-Preprocessing==1.1.2
 numpy==1.21.4
 plotly==5.3.1
 streamlit==0.81.1
-tensorflow-estimator==2.6.0
+tensorflow==2.6.0
